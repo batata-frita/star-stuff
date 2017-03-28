@@ -1,0 +1,14 @@
+{
+  "name": "@star-stuff/planet",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": {},
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^19.0.2"
+  },
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  }
+}
