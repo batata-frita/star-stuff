@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`elementComposition 1`] = `
+Array [
+  Object {
+    "code": "H",
+    "ratio": 0.4523767806596055,
+  },
+  Object {
+    "code": "He",
+    "ratio": 0.4655329424761272,
+  },
+  Object {
+    "code": "O",
+    "ratio": 0.0771970743291619,
+  },
+  Object {
+    "code": "C",
+    "ratio": 0.004893202535105416,
+  },
+]
+`;

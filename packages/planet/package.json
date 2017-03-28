@@ -10,5 +10,8 @@
   "scripts": {
     "test": "jest",
     "test:watch": "jest --watch"
+  },
+  "dependencies": {
+    "alea": "^0.0.9"
   }
 }
