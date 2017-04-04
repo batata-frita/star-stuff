@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should generate a random number based on n dimensions 1`] = `0.8387175938114524`;

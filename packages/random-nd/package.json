@@ -1,5 +1,5 @@
 {
-  "name": "@star-stuff/planet",
+  "name": "@star-stuff/random-nd",
   "version": "1.0.0",
   "main": "src/index.js",
   "repository": {},
@@ -12,6 +12,6 @@
     "test:watch": "jest --watch"
   },
   "dependencies": {
-    "@star-stuff/random-nd": "*"
+    "alea": "^0.0.9"
   }
 }

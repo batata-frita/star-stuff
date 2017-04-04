@@ -1,4 +1,4 @@
-const randomNd = require('./randomNd')
+const randomNd = require('@star-stuff/random-nd')
 
 module.exports = weightedElements => seed => {
   const weights = weightedElements.map(
