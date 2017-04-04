@@ -1,5 +1,7 @@
-const LIFESPAN_SALT = 'star/lifespan'
+const randomNd = require('@star-stuff/random-nd')
 const pipe = require('ramda/src/pipe')
+
+const LIFESPAN_SALT = 'star/lifespan'
 
 const TYPES = [
   {
@@ -24,8 +26,6 @@ const TYPES = [
   }
 ]
 
-// const randomNd = require('@star-stuff/random-nd')
-const randomNd = require('@star-stuff/random-nd')
 const lifespan = (noise) => randomNd(noise, LIFESPAN_SALT)
 
 const type = pipe(
