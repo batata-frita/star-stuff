@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`lifespan should generate a lifespan between 0 and 1 1`] = `0.39277242636308074`;
+
+exports[`type should generate a type 1`] = `
+Object {
+  "name": "G",
+  "threshold": 0.6,
+}
+`;
